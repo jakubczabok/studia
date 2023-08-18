@@ -1,0 +1,15 @@
+C:\Users\jczab\source\repos\obiektowe_laby\lab10\bin\Debug\net6.0\lab10.exe
+C:\Users\jczab\source\repos\obiektowe_laby\lab10\bin\Debug\net6.0\lab10.deps.json
+C:\Users\jczab\source\repos\obiektowe_laby\lab10\bin\Debug\net6.0\lab10.runtimeconfig.json
+C:\Users\jczab\source\repos\obiektowe_laby\lab10\bin\Debug\net6.0\lab10.dll
+C:\Users\jczab\source\repos\obiektowe_laby\lab10\bin\Debug\net6.0\lab10.pdb
+C:\Users\jczab\source\repos\obiektowe_laby\lab10\obj\Debug\net6.0\lab10.csproj.AssemblyReference.cache
+C:\Users\jczab\source\repos\obiektowe_laby\lab10\obj\Debug\net6.0\lab10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jczab\source\repos\obiektowe_laby\lab10\obj\Debug\net6.0\lab10.AssemblyInfoInputs.cache
+C:\Users\jczab\source\repos\obiektowe_laby\lab10\obj\Debug\net6.0\lab10.AssemblyInfo.cs
+C:\Users\jczab\source\repos\obiektowe_laby\lab10\obj\Debug\net6.0\lab10.csproj.CoreCompileInputs.cache
+C:\Users\jczab\source\repos\obiektowe_laby\lab10\obj\Debug\net6.0\lab10.dll
+C:\Users\jczab\source\repos\obiektowe_laby\lab10\obj\Debug\net6.0\refint\lab10.dll
+C:\Users\jczab\source\repos\obiektowe_laby\lab10\obj\Debug\net6.0\lab10.pdb
+C:\Users\jczab\source\repos\obiektowe_laby\lab10\obj\Debug\net6.0\lab10.genruntimeconfig.cache
+C:\Users\jczab\source\repos\obiektowe_laby\lab10\obj\Debug\net6.0\ref\lab10.dll
