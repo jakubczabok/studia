@@ -1,0 +1,15 @@
+C:\Users\jczab\source\repos\zadanieruncode\runcodesem2\bin\Debug\net6.0\runcodesem2.exe
+C:\Users\jczab\source\repos\zadanieruncode\runcodesem2\bin\Debug\net6.0\runcodesem2.deps.json
+C:\Users\jczab\source\repos\zadanieruncode\runcodesem2\bin\Debug\net6.0\runcodesem2.runtimeconfig.json
+C:\Users\jczab\source\repos\zadanieruncode\runcodesem2\bin\Debug\net6.0\runcodesem2.dll
+C:\Users\jczab\source\repos\zadanieruncode\runcodesem2\bin\Debug\net6.0\runcodesem2.pdb
+C:\Users\jczab\source\repos\zadanieruncode\runcodesem2\obj\Debug\net6.0\runcodesem2.csproj.AssemblyReference.cache
+C:\Users\jczab\source\repos\zadanieruncode\runcodesem2\obj\Debug\net6.0\runcodesem2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jczab\source\repos\zadanieruncode\runcodesem2\obj\Debug\net6.0\runcodesem2.AssemblyInfoInputs.cache
+C:\Users\jczab\source\repos\zadanieruncode\runcodesem2\obj\Debug\net6.0\runcodesem2.AssemblyInfo.cs
+C:\Users\jczab\source\repos\zadanieruncode\runcodesem2\obj\Debug\net6.0\runcodesem2.csproj.CoreCompileInputs.cache
+C:\Users\jczab\source\repos\zadanieruncode\runcodesem2\obj\Debug\net6.0\runcodesem2.dll
+C:\Users\jczab\source\repos\zadanieruncode\runcodesem2\obj\Debug\net6.0\refint\runcodesem2.dll
+C:\Users\jczab\source\repos\zadanieruncode\runcodesem2\obj\Debug\net6.0\runcodesem2.pdb
+C:\Users\jczab\source\repos\zadanieruncode\runcodesem2\obj\Debug\net6.0\runcodesem2.genruntimeconfig.cache
+C:\Users\jczab\source\repos\zadanieruncode\runcodesem2\obj\Debug\net6.0\ref\runcodesem2.dll
