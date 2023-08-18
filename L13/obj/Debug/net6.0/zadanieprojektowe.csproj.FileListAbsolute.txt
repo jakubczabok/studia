@@ -1,0 +1,15 @@
+C:\Users\jczab\source\repos\zadanieprojektowe\zadanieprojektowe\obj\Debug\net6.0\zadanieprojektowe.csproj.AssemblyReference.cache
+C:\Users\jczab\source\repos\zadanieprojektowe\zadanieprojektowe\obj\Debug\net6.0\zadanieprojektowe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jczab\source\repos\zadanieprojektowe\zadanieprojektowe\obj\Debug\net6.0\zadanieprojektowe.AssemblyInfoInputs.cache
+C:\Users\jczab\source\repos\zadanieprojektowe\zadanieprojektowe\obj\Debug\net6.0\zadanieprojektowe.AssemblyInfo.cs
+C:\Users\jczab\source\repos\zadanieprojektowe\zadanieprojektowe\obj\Debug\net6.0\zadanieprojektowe.csproj.CoreCompileInputs.cache
+C:\Users\jczab\source\repos\zadanieprojektowe\zadanieprojektowe\bin\Debug\net6.0\zadanieprojektowe.exe
+C:\Users\jczab\source\repos\zadanieprojektowe\zadanieprojektowe\bin\Debug\net6.0\zadanieprojektowe.deps.json
+C:\Users\jczab\source\repos\zadanieprojektowe\zadanieprojektowe\bin\Debug\net6.0\zadanieprojektowe.runtimeconfig.json
+C:\Users\jczab\source\repos\zadanieprojektowe\zadanieprojektowe\bin\Debug\net6.0\zadanieprojektowe.dll
+C:\Users\jczab\source\repos\zadanieprojektowe\zadanieprojektowe\bin\Debug\net6.0\zadanieprojektowe.pdb
+C:\Users\jczab\source\repos\zadanieprojektowe\zadanieprojektowe\obj\Debug\net6.0\zadanieprojektowe.dll
+C:\Users\jczab\source\repos\zadanieprojektowe\zadanieprojektowe\obj\Debug\net6.0\refint\zadanieprojektowe.dll
+C:\Users\jczab\source\repos\zadanieprojektowe\zadanieprojektowe\obj\Debug\net6.0\zadanieprojektowe.pdb
+C:\Users\jczab\source\repos\zadanieprojektowe\zadanieprojektowe\obj\Debug\net6.0\zadanieprojektowe.genruntimeconfig.cache
+C:\Users\jczab\source\repos\zadanieprojektowe\zadanieprojektowe\obj\Debug\net6.0\ref\zadanieprojektowe.dll
